@@ -1,0 +1,7 @@
+youtube.com has address 216.58.195.142
+youtube.com has IPv6 address 2607:f8b0:4004:808::200e
+youtube.com mail is handled by 10 aspmx.l.google.com.
+youtube.com mail is handled by 20 alt1.aspmx.l.google.com.
+youtube.com mail is handled by 30 alt2.aspmx.l.google.com.
+youtube.com mail is handled by 40 alt3.aspmx.l.google.com.
+youtube.com mail is handled by 50 alt4.aspmx.l.google.com.

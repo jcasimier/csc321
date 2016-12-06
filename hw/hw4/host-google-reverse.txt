@@ -1,0 +1,2 @@
+142.195.58.216.in-addr.arpa domain name pointer iad23s24-in-f14.1e100.net.
+142.195.58.216.in-addr.arpa domain name pointer iad23s24-in-f142.1e100.net.

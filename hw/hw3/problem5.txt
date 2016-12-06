@@ -1,0 +1,27 @@
+#before
+
+Active Internet connections (including servers)
+Proto Recv-Q Send-Q  Local Address          Foreign Address        (state)
+tcp4       0      0  192.168.178.37.59729   216.58.218.142.443     ESTABLISHED
+tcp4       0      0  192.168.178.37.57869   17.249.220.30.5223     ESTABLISHED
+tcp4       0      0  *.22                   *.*                    LISTEN
+tcp6       0      0  *.22                   *.*                    LISTEN
+
+#during
+
+Proto Recv-Q Send-Q  Local Address          Foreign Address        (state)
+tcp4       0      0  *.5558                 *.*                    LISTEN
+tcp4       0      0  192.168.178.37.59729   216.58.218.142.443     ESTABLISHED
+tcp4       0      0  192.168.178.37.57869   17.249.220.30.5223     ESTABLISHED
+tcp4       0      0  *.22                   *.*                    LISTEN
+tcp6       0      0  *.22                   *.*                    LISTEN
+
+#after
+
+Proto Recv-Q Send-Q  Local Address          Foreign Address        (state)
+tcp4       0      0  192.168.178.37.59742   216.58.218.110.443     ESTABLISHED
+tcp4       0      0  192.168.178.37.59741   216.58.218.142.443     ESTABLISHED
+tcp4       0      0  192.168.178.37.59729   216.58.218.142.443     ESTABLISHED
+tcp4       0      0  192.168.178.37.57869   17.249.220.30.5223     ESTABLISHED
+tcp4       0      0  *.22                   *.*                    LISTEN
+tcp6       0      0  *.22                   *.*                    LISTEN

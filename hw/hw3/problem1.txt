@@ -1,0 +1,42 @@
+#before
+
+Active Internet connections (including servers)
+Proto Recv-Q Send-Q  Local Address          Foreign Address        (state)
+tcp4       0      0  *.57621                *.*                    LISTEN
+tcp4       0      0  192.168.181.18.61704   23.92.108.227.4070     ESTABLISHED
+tcp4       0      0  127.0.0.1.4371         *.*                    LISTEN
+tcp4       0      0  127.0.0.1.4381         *.*                    LISTEN
+tcp4       0      0  127.0.0.1.4380         *.*                    LISTEN
+tcp4       0      0  127.0.0.1.4370         *.*                    LISTEN
+tcp4       0      0  192.168.181.18.61537   17.249.220.28.5223     ESTABLISHED
+tcp4       0      0  *.22                   *.*                    LISTEN
+tcp6       0      0  *.22                   *.*                    LISTEN
+
+#during
+
+Active Internet connections (including servers)
+Proto Recv-Q Send-Q  Local Address          Foreign Address        (state)
+tcp4       0      0  192.168.181.18.56931   192.168.177.128.51324  SYN_SENT
+tcp4       0      0  *.57621                *.*                    LISTEN
+tcp4       0      0  192.168.181.18.61704   23.92.108.227.4070     ESTABLISHED
+tcp4       0      0  127.0.0.1.4371         *.*                    LISTEN
+tcp4       0      0  127.0.0.1.4381         *.*                    LISTEN
+tcp4       0      0  127.0.0.1.4380         *.*                    LISTEN
+tcp4       0      0  127.0.0.1.4370         *.*                    LISTEN
+tcp4       0      0  192.168.181.18.61537   17.249.220.28.5223     ESTABLISHED
+tcp4       0      0  *.22                   *.*                    LISTEN
+tcp6       0      0  *.22                   *.*                    LISTEN
+
+#after
+
+Active Internet connections (including servers)
+Proto Recv-Q Send-Q  Local Address          Foreign Address        (state)
+tcp4       0      0  *.57621                *.*                    LISTEN
+tcp4       0      0  192.168.181.18.61704   23.92.108.227.4070     ESTABLISHED
+tcp4       0      0  127.0.0.1.4371         *.*                    LISTEN
+tcp4       0      0  127.0.0.1.4381         *.*                    LISTEN
+tcp4       0      0  127.0.0.1.4380         *.*                    LISTEN
+tcp4       0      0  127.0.0.1.4370         *.*                    LISTEN
+tcp4       0      0  192.168.181.18.61537   17.249.220.28.5223     ESTABLISHED
+tcp4       0      0  *.22                   *.*                    LISTEN
+tcp6       0      0  *.22                   *.*                    LISTEN

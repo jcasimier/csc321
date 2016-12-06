@@ -1,0 +1,64 @@
+#before
+
+Active Internet connections (including servers)
+Proto Recv-Q Send-Q  Local Address          Foreign Address        (state)
+tcp4       0      0  192.168.178.47.51246   4.35.2.157.443         ESTABLISHED
+tcp4       0      0  192.168.178.47.50394   108.177.8.154.443      ESTABLISHED
+tcp4       0      0  192.168.178.47.50385   151.101.48.133.443     ESTABLISHED
+tcp4       0      0  192.168.178.47.50384   151.101.48.133.443     ESTABLISHED
+tcp4       0      0  192.168.178.47.50383   151.101.48.133.443     ESTABLISHED
+tcp4       0      0  192.168.178.47.50382   151.101.48.133.443     ESTABLISHED
+tcp4       0      0  192.168.178.47.49873   216.58.218.142.443     ESTABLISHED
+tcp4       0      0  192.168.178.47.58142   192.30.253.125.443     ESTABLISHED
+tcp4       0      0  192.168.178.47.64658   192.241.190.55.443     ESTABLISHED
+tcp4       0      0  192.168.178.47.64522   173.194.78.188.443     ESTABLISHED
+tcp4       0      0  192.168.178.47.64502   17.249.60.27.5223      ESTABLISHED
+tcp4       0      0  127.0.0.1.4371         *.*                    LISTEN
+tcp4       0      0  127.0.0.1.4381         *.*                    LISTEN
+tcp4       0      0  127.0.0.1.4380         *.*                    LISTEN
+tcp4       0      0  127.0.0.1.4370         *.*                    LISTEN
+tcp4       0      0  *.5555                 *.*                    LISTEN
+tcp4       0      0  *.22                   *.*                    LISTEN
+tcp6       0      0  *.22                   *.*                    LISTEN
+
+#during
+
+Active Internet connections (including servers)
+Proto Recv-Q Send-Q  Local Address          Foreign Address        (state)
+tcp4       0      0  *.5560                 *.*                    LISTEN
+tcp4       0      0  *.5559                 *.*                    LISTEN
+tcp4       0      0  192.168.178.47.54289   216.58.218.110.443     ESTABLISHED
+tcp4       0      0  192.168.178.47.54287   64.233.160.136.443     ESTABLISHED
+tcp4       0      0  192.168.178.47.53600   216.58.218.142.443     ESTABLISHED
+tcp4       0      0  192.168.178.47.53597   216.58.218.131.443     ESTABLISHED
+tcp4       0      0  192.168.178.47.58142   192.30.253.125.443     ESTABLISHED
+tcp4       0      0  192.168.178.47.64658   192.241.190.55.443     ESTABLISHED
+tcp4       0      0  192.168.178.47.64522   173.194.78.188.443     ESTABLISHED
+tcp4       0      0  192.168.178.47.64502   17.249.60.27.5223      ESTABLISHED
+tcp4       0      0  127.0.0.1.4371         *.*                    LISTEN
+tcp4       0      0  127.0.0.1.4381         *.*                    LISTEN
+tcp4       0      0  127.0.0.1.4380         *.*                    LISTEN
+tcp4       0      0  127.0.0.1.4370         *.*                    LISTEN
+tcp4       0      0  *.5555                 *.*                    LISTEN
+tcp4       0      0  *.22                   *.*                    LISTEN
+tcp6       0      0  *.22                   *.*                    LISTEN
+
+#after
+
+Active Internet connections (including servers)
+Proto Recv-Q Send-Q  Local Address          Foreign Address        (state)
+tcp4       0      0  192.168.178.47.54289   216.58.218.110.443     ESTABLISHED
+tcp4       0      0  192.168.178.47.54287   64.233.160.136.443     ESTABLISHED
+tcp4       0      0  192.168.178.47.53600   216.58.218.142.443     ESTABLISHED
+tcp4       0      0  192.168.178.47.53597   216.58.218.131.443     ESTABLISHED
+tcp4       0      0  192.168.178.47.58142   192.30.253.125.443     ESTABLISHED
+tcp4       0      0  192.168.178.47.64658   192.241.190.55.443     ESTABLISHED
+tcp4       0      0  192.168.178.47.64522   173.194.78.188.443     ESTABLISHED
+tcp4       0      0  192.168.178.47.64502   17.249.60.27.5223      ESTABLISHED
+tcp4       0      0  127.0.0.1.4371         *.*                    LISTEN
+tcp4       0      0  127.0.0.1.4381         *.*                    LISTEN
+tcp4       0      0  127.0.0.1.4380         *.*                    LISTEN
+tcp4       0      0  127.0.0.1.4370         *.*                    LISTEN
+tcp4       0      0  *.5555                 *.*                    LISTEN
+tcp4       0      0  *.22                   *.*                    LISTEN
+tcp6       0      0  *.22                   *.*                    LISTEN

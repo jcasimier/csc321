@@ -1,0 +1,9 @@
+yahoo.com has address 206.190.36.45
+yahoo.com has address 98.138.253.109
+yahoo.com has address 98.139.183.24
+yahoo.com has IPv6 address 2001:4998:44:204::a7
+yahoo.com has IPv6 address 2001:4998:58:c02::a9
+yahoo.com has IPv6 address 2001:4998:c:a06::2:4008
+yahoo.com mail is handled by 1 mta5.am0.yahoodns.net.
+yahoo.com mail is handled by 1 mta6.am0.yahoodns.net.
+yahoo.com mail is handled by 1 mta7.am0.yahoodns.net.

@@ -1,0 +1,8 @@
+baidu.com has address 123.125.114.144
+baidu.com has address 180.149.132.47
+baidu.com has address 220.181.57.217
+baidu.com has address 111.13.101.208
+baidu.com mail is handled by 20 mx50.baidu.com.
+baidu.com mail is handled by 10 mx.n.shifen.com.
+baidu.com mail is handled by 20 mx1.baidu.com.
+baidu.com mail is handled by 20 jpmx.baidu.com.
